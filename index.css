@@ -1,0 +1,17 @@
+
+table{
+    border-spacing: 15px;
+    width: 75%;
+}
+td{
+    text-align: center;
+}
+table,th,td{
+    margin-top: 10px;
+    border:1px solid black;
+    border-collapse: collapse;
+    height:2em;
+}
+input{
+    width:20%;
+}
