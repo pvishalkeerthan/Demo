@@ -80,7 +80,7 @@ async function editStudent(id,name, course, rollno) {
     const newRollno = prompt('Enter new roll no:', rollno);
 
     try {
-        const response = await axios.put(`http://localhost:3000/students/${rollno}`, {
+        const response = await axios.put(`http://localhost:3000/students/${id}`, {
             name: newName,
             course: newCourse,
             rollno: newRollno

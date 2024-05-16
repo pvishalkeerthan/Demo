@@ -1,3 +1,40 @@
 {
-  "students": []
+  "students": [
+    {
+      "name": "venkat",
+      "course": "it",
+      "rollno": "561",
+      "id": "bbef"
+    },
+    {
+      "id": "badb",
+      "name": "vishal",
+      "course": "cse",
+      "rollno": "j9"
+    },
+    {
+      "id": "4205",
+      "name": "s",
+      "course": "s",
+      "rollno": "s"
+    },
+    {
+      "id": "bfe2",
+      "name": "s",
+      "course": "s",
+      "rollno": "s"
+    },
+    {
+      "id": "c45a",
+      "name": "s",
+      "course": "s",
+      "rollno": "s"
+    },
+    {
+      "id": "c8e0",
+      "name": "s",
+      "course": "s",
+      "rollno": "s"
+    }
+  ]
 }
